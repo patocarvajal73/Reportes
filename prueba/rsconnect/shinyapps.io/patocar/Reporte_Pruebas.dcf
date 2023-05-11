@@ -1,0 +1,13 @@
+name: Reporte_Pruebas
+title: Reporte_Pruebas
+username:
+account: patocar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8135061
+bundleId: 7044341
+url: https://patocar.shinyapps.io/Reporte_Pruebas/
+when: 1680550447.4995
+lastSyncTime: 1680550447.49951
+asMultiple: FALSE
+asStatic: FALSE
